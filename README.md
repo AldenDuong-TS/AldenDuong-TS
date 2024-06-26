@@ -1,7 +1,6 @@
 - 👋 Welcome to Technical Solve
-- 
 - 👀 I’m interested in coding, programming, and creating innovative solutions.
-- 🌱 I’m currently learning new technologies and honing my skills in web development and software engineering.
+- 🌱 I’m learning new technologies and honing my web development and software engineering skills.
 - 📫 Reach out to me via email at aldenduongts@gmail.com
 
 
