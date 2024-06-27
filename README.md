@@ -8,7 +8,7 @@
 
 . I hope my minor support will contribute to the project and develop my future career orientation.
 
-. I'm looking forward to your response aldenduongts@gmail.com
+. I'm looking forward to aldenduongts@gmail.com
 
 
 <!---
